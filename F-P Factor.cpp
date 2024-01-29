@@ -1,4 +1,5 @@
-//this file is to calculate the F/P factor of a given problem
+//this file is to calculate the F/P factor of a given problem, it can also calculate the P/F factor since it requires the 
+//same formula
 
 #include <iostream>
 #include <cmath>
