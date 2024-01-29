@@ -1,5 +1,6 @@
 //This code converts an arithmetic gradient G (not including the baase amount) for n years
 //into a present worth at year 0. This is the arithmetic present worth
+//P/G Factor
 
 #include <iostream>
 #include <cmath>
