@@ -31,7 +31,7 @@ int main() {
         cout << "Enter number of periods (n): ";
         cin >> n;
 
-        // Calculate CI using the formula
+        // Calculate C using the formula
         C = P * pow(1 + i, n);
         cout << "Compound Interest (C) = " << C << endl;
         
